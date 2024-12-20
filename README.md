@@ -131,7 +131,6 @@ data.shape
 data.info()
 ```
 
-    <class 'pandas.core.frame.DataFrame'>
     RangeIndex: 140 entries, 0 to 139
     Data columns (total 10 columns):
      #   Column                        Non-Null Count  Dtype 
@@ -454,7 +453,6 @@ plt.title('Ladder Score Distribution')
 
 
 
-    Text(0.5, 1.0, 'Ladder Score Distribution')
 
 
 
@@ -476,7 +474,6 @@ plt.title('GDP Per Capita Distribution')
 
 
 
-    Text(0.5, 1.0, 'GDP Per Capita Distribution')
 
 
 
@@ -498,7 +495,6 @@ plt.title('Healthy life expectancy Distribution')
 
 
 
-    Text(0.5, 1.0, 'Healthy life expectancy Distribution')
 
 
 
@@ -549,7 +545,6 @@ plt.legend(bbox_to_anchor=(1.55, 1), loc='upper right', borderaxespad=0)
 
 
 
-    <matplotlib.legend.Legend at 0x14d08f200>
 
 
 
@@ -567,7 +562,6 @@ sns.pairplot(data=data, vars=['Ladder score', 'GDP per capita', 'Healthy life ex
 
 
 
-    <seaborn.axisgrid.PairGrid at 0x15bf53aa0>
 
 
 
@@ -693,7 +687,6 @@ plt.title('Happiness Score Correlation Heatmap')
 
 
 
-    Text(0.5, 1.0, 'Happiness Score Correlation Heatmap')
 
 
 
