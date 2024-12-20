@@ -694,9 +694,3 @@ plt.title('Happiness Score Correlation Heatmap')
     
 ![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Portfolio1/output_25_1.png?raw=true)
     
-
-
-
-```python
-
-```
