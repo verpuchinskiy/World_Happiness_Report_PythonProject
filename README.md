@@ -25,19 +25,7 @@ data.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -171,19 +159,7 @@ data.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -346,19 +322,7 @@ data.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -496,7 +460,7 @@ plt.title('Ladder Score Distribution')
 
 
     
-![png](output_16_1.png)
+![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Portfolio1/output_16_1.png)
     
 
 
@@ -518,7 +482,7 @@ plt.title('GDP Per Capita Distribution')
 
 
     
-![png](output_17_1.png)
+![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Portfolio1/output_17_1.png?raw=true)
     
 
 
@@ -540,7 +504,7 @@ plt.title('Healthy life expectancy Distribution')
 
 
     
-![png](output_18_1.png)
+![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Portfolio1/output_18_1.png?raw=true)
     
 
 
@@ -591,7 +555,7 @@ plt.legend(bbox_to_anchor=(1.55, 1), loc='upper right', borderaxespad=0)
 
 
     
-![png](output_21_1.png)
+![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Portfolio1/output_21_1.png?raw=true)
     
 
 
@@ -609,7 +573,7 @@ sns.pairplot(data=data, vars=['Ladder score', 'GDP per capita', 'Healthy life ex
 
 
     
-![png](output_22_1.png)
+![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Portfolio1/output_22_1.png?raw=true)
     
 
 
@@ -628,19 +592,7 @@ corr
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -747,7 +699,7 @@ plt.title('Happiness Score Correlation Heatmap')
 
 
     
-![png](output_25_1.png)
+![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Portfolio1/output_25_1.png?raw=true)
     
 
 
