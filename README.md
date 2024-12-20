@@ -476,7 +476,7 @@ plt.title('Ladder Score Distribution')
 
 
     
-![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Portfolio1/output_16_1.png)
+![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Images_WHR/output_16_1.png)
     
 
 
@@ -497,7 +497,7 @@ plt.title('GDP Per Capita Distribution')
 
 
     
-![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Portfolio1/output_17_1.png?raw=true)
+![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Images_WHR/output_17_1.png?raw=true)
     
 
 
@@ -518,7 +518,7 @@ plt.title('Healthy life expectancy Distribution')
 
 
     
-![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Portfolio1/output_18_1.png?raw=true)
+![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Images_WHR/output_18_1.png?raw=true)
     
 
 
@@ -568,7 +568,7 @@ plt.legend(bbox_to_anchor=(1.55, 1), loc='upper right', borderaxespad=0)
 
 
     
-![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Portfolio1/output_21_1.png?raw=true)
+![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Images_WHR/output_21_1.png?raw=true)
     
 
 
@@ -585,7 +585,7 @@ sns.pairplot(data=data, vars=['Ladder score', 'GDP per capita', 'Healthy life ex
 
 
     
-![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Portfolio1/output_22_1.png?raw=true)
+![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Images_WHR/output_22_1.png?raw=true)
     
 
 
@@ -710,7 +710,7 @@ plt.title('Happiness Score Correlation Heatmap')
 
 
     
-![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Portfolio1/output_25_1.png?raw=true)
+![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Images_WHR/output_25_1.png?raw=true)
     
 
 ## Key Findings
