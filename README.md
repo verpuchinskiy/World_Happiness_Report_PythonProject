@@ -726,3 +726,17 @@ Expected years of healthy life significantly contribute to the happiness score. 
 
 ### 4. Generosity
 Although generosity positively impacts happiness, its influence is relatively smaller compared to GDP and social support. However, countries with cultures promoting giving and community participation show slightly higher happiness levels.
+
+### 5. Freedom to Make Life Choices
+The sense of personal freedom strongly correlates with happiness. Societies where individuals feel free to make their own choices without significant restrictions report higher satisfaction levels.
+
+### 6. Perception of Corruption
+Corruption negatively impacts happiness scores. Countries with low perceived corruption in both government and businesses tend to rank higher in happiness.
+
+### 7. Regional Trends
+- **North America and Western Europe**. These regions consistently rank among the happiest, driven by high GDP, strong social support and low corruption.
+- **Sub-Saharan Africa**. This region shows lower happiness scores due to low GDP, limited access to healthcare and weaker social structures.
+- **Asia**. While some countries (e.g., Singapore) rank high due to economic growth, others lag due to disparities in wealth distribution and governance challenges.
+
+### 8. Outliers
+Certain countries perform better or worse than expected given their economic status. For example, some low-income countries report higher happiness due to strong community ties and cultural factors, while some high-income countries score lower due to issues like inequality and lack of social cohesion.
