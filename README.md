@@ -5,6 +5,18 @@
 ## Overview
 This project is dedicated to analyzing global happiness rankings using data from the latest World Happiness Report. The dataset includes key metrics such as GDP per capita, social support, life expectancy, freedom of choice, generosity and perception of corruption, which are used to understand the factors influencing happiness in different countries. Through data exploration, cleaning, visualization and analysis, the project aims to uncover relationships between these metrics and the overall happiness score.
 
+## Objectives
+1. **Data Exploration**. Understanding the structure and distribution of happiness-related metrics across various countries.
+2. **Correlation Analysis**. Identifying key drivers of happiness by examining relationships between the Ladder Score and other metrics such as GDP, social support and life expectancy.
+3. **Regional trends**. Highlighting regional differences in happiness and identifying outliers where countries deviate from the expected trends.
+4. **Visualization**. Creating compelling visualizations to effectively communicate insights.
+
+## Dataset
+The data for this project is taken from the Kaggle dataset:
+- **Dataset Link:** [World Happiness 2024 Dataset](https://www.kaggle.com/datasets/yadiraespinoza/world-happiness-2015-2024?select=world_happiness_2024.csv)
+
+## Solution
+
 ```python
 # 1. Importing all dependencies
 import pandas as pd
@@ -700,3 +712,17 @@ plt.title('Happiness Score Correlation Heatmap')
     
 ![png](https://github.com/verpuchinskiy/World_Happiness_Report_PythonProject/blob/main/Portfolio1/output_25_1.png?raw=true)
     
+
+## Key Findings
+
+### 1. GDP per Capita and Ladder Score
+There is a strong positive correlation between GDP per capita and the happiness score. Countries with higher GDP per capita tend to showcase higher levels of happiness, thus highlighting the critical role of economic prosperity in overall well-being.
+
+### 2. Social Support
+Social support shows one of the highest correlations with happiness. Countries where individuals feel that they can rely on friends and family during difficult times consistently rank higher on the happiness index. However, people from countries with higher GDP per capita are overally more supportive.
+
+### 3. Healthy Life Expectancy
+Expected years of healthy life significantly contribute to the happiness score. Regions with better healthcare systems, higher GDP per capita and higher life expectancy tend to score higher on the happiness ladder.
+
+### 4. Generosity
+Although generosity positively impacts happiness, its influence is relatively smaller compared to GDP and social support. However, countries with cultures promoting giving and community participation show slightly higher happiness levels.
