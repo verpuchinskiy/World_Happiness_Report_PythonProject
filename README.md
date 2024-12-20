@@ -1,4 +1,10 @@
-# World Happiness Report Python Project
+# World Happiness Report 2024 Analysis with Python
+
+![](https://github.com/verpuchinskiy/World_Happiness_Report_Python_Project/blob/main/logo_whr.jpeg)
+
+## Overview
+This project is dedicated to analyzing global happiness rankings using data from the latest World Happiness Report. The dataset includes key metrics such as GDP per capita, social support, life expectancy, freedom of choice, generosity and perception of corruption, which are used to understand the factors influencing happiness in different countries. Through data exploration, cleaning, visualization and analysis, the project aims to uncover relationships between these metrics and the overall happiness score.
+
 ```python
 # 1. Importing all dependencies
 import pandas as pd
